@@ -1,0 +1,92 @@
+{
+	"family": {
+		"Paul": {
+			"age": "59",
+			"description": "father/grandpa",
+			"attributes": {
+				"eyes": "blue",
+				"hair": "brown"
+			}
+		},
+		"Tatyana": {
+			"age": "60",
+			"description": "mother/grandma",
+			"attributes": {
+				"eyes": "brown",
+				"hair": "brown"
+			}
+		},
+		"Andrey": {
+			"age": "35",
+			"description": "brother/father",
+			"attributes": {
+				"eyes": "blue",
+				"hair": "brown"
+			}
+		},
+		"Katrina": {
+			"age": "30",
+			"description": "sister-in-law",
+			"attributes": {
+				"eyes": "brown",
+				"hair": "blond"
+			}
+		},
+		"Max": {
+			"age": "10",
+			"description": "nephew",
+			"attributes": {
+				"eyes": "blue",
+				"hair": "blond"
+			}
+		},
+		"Juliana": {
+			"age": "5",
+			"description": "niece",
+			"attributes": {
+				"eyes": "blue",
+				"hair": "blond"
+			}
+		},
+		"Anna": {
+			"age": "34",
+			"description": "sister/mother/daughter",
+			"attributes": {
+				"eyes": "blue",
+				"hair": "blond"
+			}
+		},
+		"Roman": {
+			"age": "35",
+			"description": "brother-in-law",
+			"attributes": {
+				"eyes": "brown",
+				"hair": "brown"
+			}
+		},
+		"Simon": {
+			"age": "13",
+			"description": "nephew",
+			"attributes": {
+				"eyes": "brown",
+				"hair": "brown"
+			}
+		},
+		"Sasha": {
+			"age": "29",
+			"description": "sister",
+			"attributes": {
+				"eyes": "blue",
+				"hair": "blond"
+			}
+		},
+		"Stacy": {
+			"age": "24",
+			"description": "daughter",
+			"attributes": {
+				"eyes": "green",
+				"hair": "blond"
+			}
+		}
+	}
+}
